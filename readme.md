@@ -43,7 +43,7 @@ You do need the following:
 #### Technical
 1. A microphone that does not hiss, buzz, or clip.
 2. Stable upload speed of at least 6-10 Mbps upload for a 1080p/60fps stream. Consistency in bitrate is more important than raw quality.
-3. Basic familiarity with OBS or your streaming software (Tip: OBS Studio has lower CPU usage).
+3. Basic familiarity with OBS or your streaming software (Tip: OBS Studio has lower CPU usage than any other streaming service I know).
 4. One platform to stream on (don't multi-platform at the start).
 5. Lighting: You don't need a ring light. A desk lamp bouncing off a white wall provides better, softer light than a cheap LED pointed at your face. (Tip: Better lighting means better tracking if you use vtubing tracking software.)
 6. A clean background. It doesn't have to be fancy, just tidy. A messy bed behind you tells viewers you aren't professional.
