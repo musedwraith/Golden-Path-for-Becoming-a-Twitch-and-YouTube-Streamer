@@ -171,7 +171,7 @@ As a small streamer, you are very accessible. Viewers may think they are your be
 ╰┈➤ **The "Trauma Dump"**
 > If a viewer comes in saying "My life is terrible today," standard response: "I'm so sorry to hear that. We're keeping things light here today to distract from the stress, so grab a drink and chill with us." Redirect, don't ignore.
 
-#### 1. Handling Conflict
+#### 2. Handling Conflict
 If drama starts in your community or between streamers:
 
 ╰┈➤ **Take it Offline**
