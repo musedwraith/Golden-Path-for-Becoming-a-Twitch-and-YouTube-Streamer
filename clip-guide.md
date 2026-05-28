@@ -38,7 +38,7 @@ I used DaVinci Resolve Studio. It's the best editor I've ever used without costi
 ![tags](clip_5.png)
 
 15. What I would suggest is: record and clip a lot of videos. Figure out how often you want to be posting and how many clips you need to be able to do that for a month, and then go from there. For example, I want to post at least three clips a day, every single day. So in 30 days I need 90 clips. That's a lot of clips. That's a lot for people who aren't used to editing and clipping. You have to be realistic with yourself, or you will end up letting yourself down and creating a burnout that was preventable.
-![schedule](clip.6.png)
+![schedule](clip_6.png)
 
 
 ## Consistency and the Algorithm
