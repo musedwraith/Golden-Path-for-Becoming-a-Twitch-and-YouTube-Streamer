@@ -28,6 +28,7 @@ You can create clips from videos you record, but you can't necessarily create cl
 11. Open the recorded video in an editor.
 
 I used DaVinci Resolve Studio. It's the best editor I've ever used without costing an exuberant amount of money. I started with Sony Vegas Pro, I tried Lightworks Studio, I've tried a few others, but this one is by far the best. They have a free version, it's called [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/studio). 
+![davinci](davinci.png)
 
 12. This is kind of complicated to explain, so you might want to Google it, but if you're in DaVinci Resolve you need to go to your Timeline Settings and set the resolution to match your output resolution on your raw videos. In this case, it would be 1920x1080. But if you want to make Shorts or actual clips and not widescreen content, then you need to change the resolution to vertical form. In DaVinci Resolve, there's a checkbox that will just flip the resolution for you. In a lot of other video editing software, they make you change the resolution manually.
 ![timeline settings](clip_1.png)
