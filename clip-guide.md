@@ -8,10 +8,11 @@ You can create clips from videos you record, but you can't necessarily create cl
 2. Change Output Mode to Advanced.
 3. Go to the Recording tab.
 4. Set your Recording Path to wherever you want the videos saved.
-5. Set Recording Format to MP4.
+5. Set Recording Format to mkv.
 6. Set your Encoder:
    - If you have NVIDIA: use NVENC
    - If you have AMD: use x264
+![output - recording](clip_8.png)
 7. Set your recording quality. A good starting point is:
    - Rate Control: CQP
    - CQ Level: 18–23
@@ -20,6 +21,8 @@ You can create clips from videos you record, but you can't necessarily create cl
    - Base Canvas: your monitor resolution
    - Output Scaled: 1920x1080
    - FPS: 60 or 30
+![video - general](clip_9.png)
+![advanced - video](clip_10.png)
 9. Press Start Recording when you want to capture gameplay or stream content.
 10. When you're done, press Stop Recording.
 11. Open the recorded video in an editor.
